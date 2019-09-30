@@ -18,7 +18,7 @@
 				"电源插座": true,
 				"网络质量": 4,
 				"marker-size": "large",
-				"marker-color": "#cc3300",
+				"marker-color": "#cc6633",
 				"marker-symbol": "library"
 			},
 			"geometry": {
@@ -199,6 +199,131 @@
 			"geometry": {
 				"type": "Point",
 				"coordinates": [104.0569, 30.521088]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"名称": "高新区 24 小时自助图书馆",
+				"级别": 1,
+				"开放时间": "1-7: 0000-2400",
+				"新旧": 4,
+				"体量": 1,
+				"座位": 1,
+				"光环境": 1,
+				"声环境": 1,
+				"热环境": 2,
+				"热水供应": false,
+				"凉水供应": false,
+				"电源插座": true,
+				"网络质量": 1,
+				"marker-size": "small",
+				"marker-color": "#333333",
+				"marker-symbol": "library"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [104.049784, 30.551392]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"名称": "成都图书馆城市阅读空间-散花书院铁像寺水街店",
+				"级别": 1,
+				"开放时间": "1-7: 1000-2230",
+				"新旧": 5,
+				"体量": 1,
+				"座位": 1,
+				"光环境": 3,
+				"声环境": 1,
+				"热环境": 4,
+				"热水供应": false,
+				"凉水供应": false,
+				"电源插座": true,
+				"网络质量": 3,
+				"marker-size": "small",
+				"marker-color": "#333333",
+				"marker-symbol": "library"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [104.0494, 30.55854]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"名称": "成都图书馆城市阅读空间-文轩 BOOKS 九方店",
+				"级别": 1,
+				"开放时间": "1-7: 1000-2200",
+				"新旧": 5,
+				"体量": 2,
+				"座位": 2,
+				"光环境": 2,
+				"声环境": 1,
+				"热环境": 4,
+				"热水供应": false,
+				"凉水供应": false,
+				"电源插座": true,
+				"网络质量": 2,
+				"marker-size": "small",
+				"marker-color": "#333333",
+				"marker-symbol": "library"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [104.064983, 30.58996]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"名称": "成都图书馆城市阅读空间-钟书阁",
+				"级别": 1,
+				"开放时间": "1-7: 1000-2200",
+				"新旧": 5,
+				"体量": 1,
+				"座位": 1,
+				"光环境": 3,
+				"声环境": 1,
+				"热环境": 4,
+				"热水供应": false,
+				"凉水供应": false,
+				"电源插座": null,
+				"网络质量": null,
+				"marker-size": "small",
+				"marker-color": "#333333",
+				"marker-symbol": "library"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [104.069072, 30.584355]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"名称": "成都图书馆城市阅读空间-言几又·今日阅读鹭州里店",
+				"级别": 1,
+				"开放时间": "1-7: 1000-2200",
+				"新旧": 5,
+				"体量": 1,
+				"座位": 1,
+				"光环境": 2,
+				"声环境": 1,
+				"热环境": 4,
+				"热水供应": false,
+				"凉水供应": false,
+				"电源插座": null,
+				"网络质量": null,
+				"marker-size": "small",
+				"marker-color": "#333333",
+				"marker-symbol": "library"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [104.042935, 30.55025]
 			}
 		}
 	]
