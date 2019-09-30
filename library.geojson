@@ -20,7 +20,7 @@
 			},
 			"geometry": {
 				"type": "Point",
-				"coordinates": [30.65861, 104.06339]
+				"coordinates": [104.06339, 30.65861]
 			}
 		},
 		{
@@ -42,7 +42,7 @@
 			},
 			"geometry": {
 				"type": "Point",
-				"coordinates": [30.65283, 104.06032]
+				"coordinates": [104.06032, 30.65283]
 			}
 		},
 		{
@@ -64,7 +64,7 @@
 			},
 			"geometry": {
 				"type": "Point",
-				"coordinates": [30.62364, 104.03361]
+				"coordinates": [104.03361, 30.62364]
 			}
 		},
 		{
@@ -86,7 +86,7 @@
 			},
 			"geometry": {
 				"type": "Point",
-				"coordinates": [30.67004, 104.09227]
+				"coordinates": [104.09227, 30.67004]
 			}
 		},
 		{
@@ -108,7 +108,7 @@
 			},
 			"geometry": {
 				"type": "Point",
-				"coordinates": [30.66647, 103.99724]
+				"coordinates": [103.99724, 30.66647]
 			}
 		},
 		{
@@ -130,7 +130,7 @@
 			},
 			"geometry": {
 				"type": "Point",
-				"coordinates": [30.651962, 104.068947]
+				"coordinates": [104.068947, 30.651962]
 			}
 		}
 	]
