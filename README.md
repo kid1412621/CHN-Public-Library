@@ -42,4 +42,10 @@
 * 数值型参数均为 3 分制，数值越大表示越优质；
 * 若有数值为 null 说明缺少该服务；
 * 开放时间暂未想当在数据处理和可读性之间较为平衡的解决方案；
-* Wi-Fi 速率测试尽量选择以非城市公共热点（如 i-chengdu ）进行。
+* Wi-Fi 速率测试尽量避免选择城市公共热点（如 i-chengdu ）进行，而是优先选择图书馆自行提供的 Wi-Fi 服务。
+
+
+
+## Thanks
+
+该 Repo 灵感源于 [cn-cafe](https://github.com/ElaWorkshop/awesome-cn-cafe) ，在此以表谢意。
