@@ -1,0 +1,31 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"名称": "广州图书馆（珠江新城新馆）",
+				"级别": 3,
+				"开放时间": "1-2,4-7: 0900-2100",
+				"新旧": 5,
+				"体量": 5,
+				"座位": 5,
+				"光环境": 4,
+				"声环境": 3,
+				"热环境": 5,
+				"热水供应": true,
+				"凉水供应": true,
+				"用餐区域": true,
+				"电源插座": true,
+				"网络质量": null,
+				"marker-size": "medium",
+				"marker-color": "#339900",
+				"marker-symbol": "library"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [113.326042, 23.116264]
+			}
+		}
+	]
+}

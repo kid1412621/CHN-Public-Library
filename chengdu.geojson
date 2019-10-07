@@ -67,7 +67,7 @@
 				"热环境": 5,
 				"热水供应": true,
 				"凉水供应": true,
-				"用餐区域": false,
+				"用餐区域": true,
 				"电源插座": true,
 				"网络质量": 5,
 				"marker-size": "medium",
