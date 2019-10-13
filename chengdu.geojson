@@ -277,7 +277,7 @@
 				"凉水供应": false,
 				"用餐区域": false,
 				"电源插座": true,
-				"网络质量": 2,
+				"网络质量": 1,
 				"marker-size": "small",
 				"marker-color": "#333333",
 				"marker-symbol": "library"
